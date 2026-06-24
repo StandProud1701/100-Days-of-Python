@@ -21,7 +21,7 @@ Updating this table everyday to track my growth.
 | :--- | :--- | :--- | :--- |
 | 01 | Band Name Generator | Strings, Inputs, Variables | [View Code](./Day%201%20-%20Working%20with%20Variables/) |
 | 02 | Tip Calculator | Data Types, String Manipulation | [View Code](./Day%202%20-%20Understanding%20Data%20Types/) |
-
+| 03 | Treasure Hunt Telltale | Control Flow and Logical Operators | [View Code](./Day%203%20-%20Control%20Flow%20&%20Logical%20Operators/) |
 <br>
 <br>
 
