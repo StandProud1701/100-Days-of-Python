@@ -8,7 +8,7 @@ Welcome to my journey! This repository is a day-by-day log of my progress throug
 ## 📊 My Progress at a Glance
 | Metric | Status | 
 | :--- | :--- | 
-| Current Day | 01/100 |
+| Current Day | 03/100 |
 | Current Focus | Python Fundamentals and Logic |
 | Major Milestones | 0/5 Completed |
 | Days Missed | 0 |
@@ -19,7 +19,8 @@ Welcome to my journey! This repository is a day-by-day log of my progress throug
 Updating this table everyday to track my growth.
 | Day | Project Name | Core Concepts | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | Band Name Generator | Strings, Inputs, Variables | [View Code](./Day%201-Working%20with%20Variables/) |
+| 01 | Band Name Generator | Strings, Inputs, Variables | [View Code](./Day%201%20-%20Working%20with%20Variables/) |
+| 02 | Tip Calculator | Data Types, String Manipulation | [View Code](./Day%202%20-%20Understanding%20Data%20Types/) |
 
 <br>
 <br>
